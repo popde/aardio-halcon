@@ -7,5 +7,5 @@ halcon是世界知名的视觉处理软件, halcon13和之前的版本是支持c
 2, halcon代码自动转换到aardio代码
 3, halcon在aardio中的一些使用示例
 
-本文首发: https://www.htmlayout.cn/search/halcon
+本文首发: https://www.aardio.com.cn/search/halcon
 aardio编程软件官网: www.aardio.com
